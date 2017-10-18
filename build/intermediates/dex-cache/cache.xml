@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\MyProjects\08.06\Instagram\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="F:\MyProjects\08.06\Instagram\ParseStarterProject\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_242eed6b51fdd723157b5bfd064ebdd698741adf.jar" />
+    </item>
+    <item
+        jar="F:\MyProjects\08.06\Instagram\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="F:\MyProjects\08.06\Instagram\ParseStarterProject\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_752829d263a2719962ac1687470552afd141141c.jar" />
+    </item>
+    <item
+        jar="C:\Users\CHANDAN\.gradle\caches\modules-2\files-2.1\com.parse\parse-android\1.13.0\58a7d54b6a4f28be11f0cecec93097eddf473e6f\parse-android-1.13.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
+        <dex dex="F:\MyProjects\08.06\Instagram\ParseStarterProject\build\intermediates\pre-dexed\debug\parse-android-1.13.0_cae47751e3af89e6aa5a6b8374e1b4cde5bdeb20.jar" />
+    </item>
+    <item
+        jar="F:\MyProjects\08.06\Instagram\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="F:\MyProjects\08.06\Instagram\ParseStarterProject\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_deeaf7d1c0e9083185f60dfd0f0865d210df5f97.jar" />
+    </item>
+    <item
+        jar="C:\Users\CHANDAN\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="F:\MyProjects\08.06\Instagram\ParseStarterProject\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_e199182be382e2c348a7f8ac5c6c56f3aaf6ca91.jar" />
+    </item>
+    <item
+        jar="C:\Users\CHANDAN\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="F:\MyProjects\08.06\Instagram\ParseStarterProject\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_861ab2c4b87df83fd1dd2520f78edbca6fbc8542.jar" />
+    </item>
+    <item
+        jar="F:\MyProjects\08.06\Instagram\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="F:\MyProjects\08.06\Instagram\ParseStarterProject\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_8ddb2a6ab9b08865023ac5daa0afd3c6c8314e82.jar" />
+    </item>
+    <item
+        jar="F:\MyProjects\08.06\Instagram\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="F:\MyProjects\08.06\Instagram\ParseStarterProject\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_28fab0e090c89b0f77e58b58f38b229b9df39d9b.jar" />
+    </item>
+
+</items>
